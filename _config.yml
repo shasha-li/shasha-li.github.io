@@ -1,0 +1,40 @@
+
+# Site settings
+title: LI Shasha (Lisa)
+name: LI Shasha
+subtitle: Bocconi
+email: shasha.li@unibocconi.it
+description: >
+  PhD in Economics and Finance
+baseurl: ""
+url: "https://shasha-li.github.io/"
+github_username:  shasha-li
+disqus_baseurl: "https://shasha-li.github.io/"
+disqus_shortname: https-shasha-li-github-io
+permalink: :title
+
+# Build settings
+markdown: kramdown
+encoding: utf-8
+paginate: 5
+paginate_path: "/page:num/"
+inter_post_navigation: true
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      author: "Li Shasha"
+
+
+
+# External gems
+gems:
+  - jekyll-paginate
+  - jemoji
+  - jekyll-seo-tag
+
+
+
+

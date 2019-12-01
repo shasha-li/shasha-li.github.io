@@ -9,8 +9,11 @@ I am currently a PhD student in Economics and Finance at Bocconi. Previously, I 
 
 Here's my <a href="https://shasha-li.github.io/content/SHASHA%20LI%20CV.pdf" target="_blank">CV</a> 
 <br>
-<big>References</big>
-<a href="https://sites.google.com/site/srossi2212">Stefano Rossi</a> (PhD Advisor)
-Email: rossi.stefano@unibocconi.it
+
+
+<p><strong>References</strong></p>
+<br>
+<p><a href="https://sites.google.com/site/srossi2212">Stefano Rossi</a> (PhD Advisor)</p>
+<p>Email: rossi.stefano@unibocconi.it</p>
 <br>
 <br>

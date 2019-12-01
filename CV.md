@@ -12,8 +12,7 @@ Here's my <a href="https://shasha-li.github.io/content/SHASHA%20LI%20CV.pdf" tar
 
 
 <p><strong>References</strong></p>
-<br>
 <p><a href="https://sites.google.com/site/srossi2212">Stefano Rossi</a> (PhD Advisor)</p>
-<p>Email: rossi.stefano@unibocconi.it</p>
+<p>Email: <a href="mailto:rossi.stefano@unibocconi.it" target="_top">rossi.stefano@unibocconi.it</a></p>
 <br>
 <br>

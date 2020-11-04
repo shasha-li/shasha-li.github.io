@@ -10,16 +10,3 @@ I am a PhD Candidate in Economics and Finance at Bocconi. Previously, I got a Ma
 Here's my <a href="https://shasha-li.github.io/content/SHASHA%20LI%20CV.pdf" target="_blank">CV</a> 
 <br><br>
 
-
-<p><strong>References</strong></p>
-<br>
-<p><a href="https://sites.google.com/site/srossi2212">Stefano Rossi</a> (Advisor)</p>
-<p>Email: <a href="mailto:rossi.stefano@unibocconi.it" target="_top">rossi.stefano@unibocconi.it</a></p>
-<br>
-<p><a href="https://sites.google.com/view/alberto-manconi">Alberto Manconi</a></p>
-<p>Email: <a href="mailto:alberto.manconi@unibocconi.it" target="_top">alberto.manconi@unibocconi.it</a></p>
-<br>
-<p><a href="https://sites.google.com/site/nicolasserranovelarde/">Nicolas Serrano-Velarde</a></p>
-<p>Email: <a href="mailto:nicolas.serranovelarde@unibocconi.it" target="_top">nicolas.serranovelarde@unibocconi.it</a></p>
-
-<br>

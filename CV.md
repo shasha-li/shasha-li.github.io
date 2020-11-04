@@ -3,7 +3,7 @@ layout: page
 title: About me
 permalink: /CV/
 ---
-I am a PhD Candidate in Economics and Finance at Bocconi. Previously, I got a Master in Economics from Peking University and MFin from The University of Hong Kong. I hold Bachelors in Statistics and Mathematics from Xiamen University. Outside of Economics and Finance, I like maths and running (jogging).   
+I am a PhD Candidate in Economics and Finance at Bocconi. Previously, I got Master in Economics from Peking University and MFin from The University of Hong Kong. I hold Bachelors in Statistics and Mathematics from Xiamen University. Outside of Economics and Finance, I like maths and running (jogging).   
 <br>
 
 

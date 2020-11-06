@@ -10,6 +10,6 @@ I am a PhD Candidate in Economics and Finance at Bocconi. Previously, I got Mast
 Here's my <a href="https://shasha-li.github.io/content/SHASHA%20LI%20CV.pdf" target="_blank">CV</a> 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/shasha-li/shasha-li.github.io/master/content/run.jpg" style="width:700px;"/>
+<img src="/content/run.jpg" style="width:600px;"/>
 
 <br><br>

@@ -9,9 +9,7 @@ I obtained a Ph.D. degree in Economics and Finance from Bocconi University in Ja
 
 Here's my <a href="https://shasha-li.github.io/content/SHASHA%20LI%20CV.pdf" target="_blank">CV.</a> 
 <br>
-
-In my free time, I enjoy jogging while listening to podcasts/music.
 <br> 
-<img src="/content/run.jpg" style="width:600px;"/>
-
+<img src="/content/run.jpg" style="width:600px;"/> <br> 
+In my free time, I enjoy jogging while listening to podcasts/music.
 <br><br>
